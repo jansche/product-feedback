@@ -120,15 +120,19 @@ This example suggests **Azure DevOps** and uses "**on system**" whenever referri
         -   
 
 ### Filtering
+tbd
 
 ### Building for diversity, equity and inclusion
+tbd
 
 ### Feedback for feedback
+tbd
 
 ### Standard communication templates
-
+tbd
 
 ## Risks
+tbd
 
 ## Appendix
 Social Media Monitoring Tools:
