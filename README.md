@@ -1,10 +1,10 @@
-## This document is work in progress. Feel free to contribute. Help is always appreciated.
+**This document is work in progress. Feel free to contribute. More ideas and different opinions are always appreciated.**
 
-_I'm currently looking for a new job in Developer Relations. Ideally in Program Management, DevRel strategy or Head of / Leading DevRel for an awesome company. Hire me!_
+_I'm currently looking for a new job in Developer Relations. Ideally in Program Management, DevRel strategy or Head of / Leading DevRel for an awesome company. [Hire me!](https://t1dcyb.org)_
 
 _This document has been developed during my job search for a DevRel role in 2021. It may be useful as an inspiration for future DevRel programs. Use it at your own discretion. It's published under the [MIT license](LICENSE). Please let me know if you use it._
 
-# Product Feedback through Developer Relations – A Framework
+# Product Feedback through Developer Relations – A Program Framework
 
 
 ## Executive Summary
@@ -95,25 +95,37 @@ The use case Yoha described was new to the product group, but could eventuall re
 -   Dedicated external Slack/Discord for product feedback or section/channel in company's developer outreach channels, monitored and nurtured by Community Program Manager (Advocates and product groups are at least reactively available.)
 -   Beta program participation open to previous feedback providers
 -   Availability of social media monitoring tool (e.g. HootSuite, TalkWalker, Onalytica, Radarly, EchoBot or other)
+- Developer Advocacy has editing access to DevOps / bug tracking system.
 
 ## Operational details
 
-A structured approach to putting product feedback on the records is essential to this program. For ease of consumption, I'll only focus on one of many toolsets, interpret the toolset as replaceable by any other toolset with similar capacities. It should be chosen with what is already in use in mind. Another tool adds antoher level of complexity, adds friction and raises the barrier for internal adoption of this program.
+A structured approach to putting product feedback on the records is essential to this program. For ease of consumption, I'll only focus on one of many toolsets, interpret the toolset as replaceable by any other toolset with similar capacities. It should be chosen with status quo in mind. Another tool adds another level of complexity, adds friction and raises the barrier for internal adoption of this program.
 
-This example uses **Azure DevOps**.
+This example suggests **Azure DevOps** and uses "**on system**" whenever referring to the DevOps environment / bug tracking system.
 
 ### Decision making on how to record
-Formal recording of feedback or informal mentioning during cadence meeting
+[[Formal recording of feedback or informal mentioning during cadence meeting]]
 
-### Ideal flow of feedback
+### Ideal process of feedback
+    1) Product feedback is gathered, anonymized to avoid bias, pre-filtered, recorded, grouped, tagged and then handed over to product the group, with flags for high urgency items - all on system.
+    2) Product group filters with business justification on system.
+    3) Feedback gets prioritized through both, product group and Developer Advocacy on system. 
+    4) If priority is marked as "very high" from one party, a chat or meeting between parties will be set up to define next steps within a matter of three days (one week if priority is "high"). Next steps include:
+        -   interaction with feedback provider
+        -   feasibility of a quick solution/fix
+        -   availability of a quick solution/fix
+        -   triage
+        -   
+        -   communication with feedback provider
+        -   
 
 ### Filtering
+
+### Building for diversity, equity and inclusion
 
 ### Feedback for feedback
 
 ### Standard communication templates
-
-### 
 
 
 ## Risks
