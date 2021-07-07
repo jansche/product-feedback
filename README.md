@@ -9,7 +9,9 @@ _This document has been developed during my job search for a DevRel role in 2021
 
 ## Executive Summary
 Elaborate on why feedback from DevRel is more important than internal dogfooding, and how mechanisms in feedback processing can contribute to a stronger and more trusted / authentic relationship with developers. 
-Feedback and content/documentation are the two key assets that Developer Relations contribute to a product.
+
+
+> **Feedback and content/documentation are the two key assets that Developer Relations contribute to a product.**
 
 
 ## Description
