@@ -88,4 +88,40 @@ Data Scientist Jules Ng (he/him) - while working on a machine learning model –
 Yoha Mitchell (she/her) is a professional power user and hobby developer for [company name]'s cloud service. Yoha loves to automate things, and tends to overshare on social media. She'd like to see an extension to [company name]'s product API, so she could build a template that might be helpful to a bunch of people. She's unsure about her developer skills, and asks Twitter for advice. Several people jump the train and urge [company name] on social networks to implement the feature or at least provide a workaround. Developer Advocate Janice Mokambu (they/them) gets aware of the issue through their social monitoring tool, and answers the thread while communicating with the product group. They also inform [company name]'s Public Relations about whats going on on social. (They decide it's too small of an issue to need handling.)
 The use case Yoha described was new to the product group, but could eventuall result in broader usage of the cloud service through hobbyists. Janice provides additional input, but a workaround is not available, while extending the product through an additional feature is not feasible short term ("hobbyists don't consume the paid version of the service"). Janice stays in contact with Yoha and collects more data over the next few weeks. They are crunching numbers with the product group and marketing to finally show a feature extension would be worth the effort.  During the time, Janice stays connected with Yoha, who became a friendly voice for [company name] on social thanks to Janice's ongoing communications. They finally succeed in a feature extension for the next version of [company name]'s cloud service and is allowed to let Yoha know she's been the reason for implementation. The news gets reteeted and shared on social, riding a trending topic #lowcodedevs #changetheworld hashtag combo.
 
+## Collaborational details
+-	Per product cadence meetings between product team, and developer advocates and an optional representative from engineering (suggested monthly)
+-   Per case in-promptu asynchronous communication via a common chat tool
+-   Tools usage consistent throughout all involved internal parties (don't add another tool, if the DevOps / bug tracking tool is able to cover feedback)
+-   Dedicated external Slack/Discord for product feedback or section/channel in company's developer outreach channels, monitored and nurtured by Community Program Manager (Advocates and product groups are at least reactively available.)
+-   Beta program participation open to previous feedback providers
+-   Availability of social media monitoring tool (e.g. HootSuite, TalkWalker, Onalytica, Radarly, EchoBot or other)
 
+## Operational details
+
+A structured approach to putting product feedback on the records is essential to this program. For ease of consumption, I'll only focus on one of many toolsets, interpret the toolset as replaceable by any other toolset with similar capacities. It should be chosen with what is already in use in mind. Another tool adds antoher level of complexity, adds friction and raises the barrier for internal adoption of this program.
+
+This example uses **Azure DevOps**.
+
+### Decision making on how to record
+Formal recording of feedback or informal mentioning during cadence meeting
+
+### Ideal flow of feedback
+
+### Filtering
+
+### Feedback for feedback
+
+### Standard communication templates
+
+### 
+
+
+## Risks
+
+## Appendix
+Social Media Monitoring Tools:
+- [HootSuite](https://www.hootsuite.com/)
+- [TalkWalker](https://www.talkwalker.com/)
+- [Onalytica](https://onalytica.com/)
+- [Radarly / linkfluenc](https://www.linkfluence.com/)
+- [EchoBot](https://www.echobot.io/)
