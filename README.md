@@ -13,20 +13,20 @@ Feedback and content/documentation are the two key assets that Developer Relatio
 
 
 ## Description
-From the three pillars of Developer Relations (relationship management, content and product feedback) product feedback is for sure the most underrated. Yet it is also the most powerful one. External feedback to a product discloses hidden flaws in design, usage and security. It provides a fresh perspective and helps evaluate assumptions. 
-This document on gathering and processing product feedback through Developer Relations is meant as a starting point for implementing a process at [company’s name] for improving how external and internal product feedback has the opportunity to contribute to product development. It’s written with a corporate structure in mind, where developer relations is a separate organization in Engineering or Marketing, but many of the key aspects may also apply to organizations where Developer Relations is fragmented into various product groups. 
+From the three pillars of Developer Relations (relationship management, content and product feedback) product feedback is for sure the most underrated. Yet it is also the most powerful one. External feedback to a product discloses hidden flaws in design, unexpected use cases and security issues. It provides a fresh perspective and helps evaluate assumptions. 
+This document on gathering and processing product feedback through and with Developer Relations is meant as a starting point for implementing a process at [company name] for improving how external and internal product feedback has the opportunity to contribute to product development. It’s written with a corporate structure in mind, where Developer Relations is a separate organization in Engineering or Marketing, but many of the key aspects may also apply to organizations where Developer Relations is fragmented over various product groups or product marketing. 
 
 Focus of this document is the operational details to streamline feedback from internal and external sources.
 
 
 ## Opportunity and Value Prop 
 -	With a diverse community you get:
-o	Diverse feedback
-o	Diverse (and new) use cases
+-   Diverse feedback
+-   Diverse (and new) use cases
 -	Honesty
--	Pay back to a beloved product (also risk: bashing because I hate it)
+-	Pay back to a beloved product (also risk: bashing "because I hate it")
 -	Pride moment
-o	Then Share of Voice
+-   Share of Voice
 
 
 
@@ -42,26 +42,24 @@ o	Then Share of Voice
 
 
 ## What a Product Feedback Program can’t do
--	Extended or contingency staff
--	A team of mini-evangelists
--	A free resource
--	Employees at [company's name]
--	A tool of amplification for our content or marketing campaigns
+-	Take responsibility for business decisions
+-	Access a pool of unpaid product testers
+-	Replace quality assurance processes
+-	Substitute bounty bug hunts
+-	Amplify content or marketing campaigns
 
 ## What is Product Feedback
-
+tbd
 
 ## Program Objectives and Key Results
 -	Building a network of responsive experts that are committed to providing high-quality product feedback from themselves and their communities
--	Nurture external voices for [company’s name]’s products
+-	Organically nurture external voices for [company’s name]’s products
 -	Provide clear structure and framework for managing feedback end-to-end
 -	Setup a toolset for product feedback management
--	Setup an interaction scheme between contributors
+-	Setup an interaction scheme
 
 ### Projected impact (not all apply to all OSS Advisors evenly), Key Results
--	1+ product feedback / OSS Advisors / quarter
--	1+ pieces of content that mention [company's name] / OSS Advisor / month
--	1+ contribution to documentation base / OSS Advisor / month (accounting for seasonality necessary)
+- tbd
 
 
 ### What is Success (tools of measurements in brackets)
