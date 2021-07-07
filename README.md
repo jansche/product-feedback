@@ -76,3 +76,15 @@ o	Then Share of Voice
 -	Product teams, TPMs for product feedback
 -	Engineering Leads for commitment in product teams
 -	VP as sponsor of the program
+
+## Scenarios (names and companies are made up)
+### Scenario A: 
+Developer Advocate Janice Mokambu (they/them) is speaking on a tech conference online. They finish their talk and hop on an AMA (ask me anything) session right after. They hear back from session attendee Lin Da Lee (she/her) that Janice’s product API is returning invalid results when used consequently during the change of hour while not re-authenticating. They fixed this by force re-authentication before each request, which results in a performance loss. Janice asks the attendee to pass them their contact details via Twitter IM or email, notes down the case and gets into touch with the product team.  They can’t reproduce, but after a quick chat with Lin Da, it turns out the problem only occurs over a UTC date change. Since the engineering team is based in Europe, they never experienced this flaw themselves. Lin Da’s team is located in China, and they repeatedly came across this issue during their regular working hours.
+Engineering is fixing the issue with input from the product team, who had a call with the product manager from Lin Da’s company that helped narrow down the issue. Janice was involved in every step, but they didn’t have to have much interaction in this case. The product team informed them when the update would go live, so Janice could chat with Lin Da and let them know that their feedback was deeply appreciated and how to plan for the update, so they could improve their experience and performance accordingly.
+After the update got live, Janice and the product team work together to feature Lin Da on their social channels and award her a certificate, that got designed for product feedback through community.
+
+### Scenario B:
+Data Scientist Jules Ng (he/him) - while working on a machine learning model – finds an outdated piece of documentation for [company name]’s machine learning product online. They can’t fiddle out how to use the description for the newer version and turns to Reddit for help. Jules gets a few comments, two of them pointing him to an also outdated blog post by [company name]’s technical writer Emma Schoemaker (she/her). Jules decides to leave a comment on the blog to vent his anger. He’s about to switch to AutoML, [company name]’s competitor, when Emma replies to his comment, pointing them to a newer article on dev.to, which is still in draft mode. Jules is able to finish implementation and also gets asked by Emma if he wants to be their guest on the podcast [company name]’s developer advocate Janice Mokambu (they/them) is producing. She also updates the official documentation to the newest release, and informs the product group of the breaking changes in their last version.  On the podcast, Janice, Jules and Emma talk about the need for up to date documentation, but also on technical requirements, competitors and the future of Machine Learning.
+
+### Scenario C: 
+
