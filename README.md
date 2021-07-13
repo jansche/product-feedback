@@ -9,7 +9,15 @@
 
 
 ## Executive Summary
-Elaborate on why feedback from DevRel is more important than internal dogfooding, and how mechanisms in feedback processing can contribute to a stronger and more trusted / authentic relationship with developers. 
+This program suggets a framework for organising product feedback programmatically. Honest and quality-assured handling of user feedback paves a road to success in these ways: 
+    **Product:**
+    Improving and aligning development of a product to the requirements of its users is essential. The earlier usage trends, design flaws and security issues are discovered, the easier it is to implement the fix into the product. Developer Relations has access to qualitative feedback from the most experienced users. These users are not only influential, but also have a wide network and a great understanding of real life application of the product.
+    **Brand:**
+    A reliable and transparent process in product feedback will eventually pay towards brand trust. Authentic realtionships with developers support positive word of mouth, overall favorability and individual willingness to pay for services. A trusted brand is a competitive advance.
+    **Relationships:** 
+    All managed and unmanaged relationships from developer advocates include conversation about the product at some point. Be it positive or negative. Providing a way to capture this feedback (subject to consent) and track it throughout its lifecycle will benefit both sides of the relationship. The advocate has a talking point with the community member, and may reconnect from time to time just to give a status update. The feedback provider feels empowered and taken seriously. The more if their feedback makes it to a product improvement or feature. 
+
+Managing product feedback in a reliable durable process secures success in all of the above areas. This framework focuses on setting up inclusive processes to provide transparency, authenticity, a stable flow of feedback and trusted relationships between stakeholders. It seeks diversity and quality, and helps product and developer relations through a neutral unbiased approach.
 
 
 > **Feedback and content/documentation are the two key assets that Developer Relations contribute to a product.**
@@ -93,23 +101,24 @@ The use case Yoha described was new to the product group, but could eventuall re
 
 ## Collaborational details
 -	Per product cadence meetings between product team, and developer advocates and an optional representative from engineering (suggested monthly)
--   Per case in-promptu asynchronous communication via a common chat tool
--   Tools usage consistent throughout all involved internal parties (don't add another tool, if the DevOps / bug tracking tool is able to cover feedback)
--   Dedicated external Slack/Discord for product feedback or section/channel in company's developer outreach channels, monitored and nurtured by Community Program Manager (Advocates and product groups are at least reactively available.)
+-   Per case in-promptu asynchronous communication via company-approved chat tool
+-   Tools usage consistency throughout all involved internal parties (don't add another tool, if the DevOps / bug tracking tool is able to cover feedback)
+-   Dedicated external Slack/Discord/forum for product feedback or section/channel in company's developer outreach channels, monitored and nurtured by Community Program Manager (Advocates and product groups are at least reactively available.)
+-   Third-party platform (e.g. UserVoice) for anonymous feedback
 -   Beta program participation open to previous feedback providers
 -   Availability of social media monitoring tool (e.g. HootSuite, TalkWalker, Onalytica, Radarly, EchoBot or other)
-- Developer Advocacy has editing access to DevOps / bug tracking system.
+- Developer Advocacy with CRU(D)* access to DevOps / bug tracking system.
 
 ## Operational details
 
-A structured approach to putting product feedback on the records is essential to this program. For ease of consumption, I'll only focus on one of many toolsets, interpret the toolset as replaceable by any other toolset with similar capacities. It should be chosen with status quo in mind. Another tool adds another level of complexity, adds friction and raises the barrier for internal adoption of this program.
+A structured approach to putting product feedback on the records is essential to managing and growing product feedback. For ease of consumption, I'll only focus on one of many toolsets, but please interpret the toolset as replaceable by any other toolset with similar capacities. It should be chosen with status quo in mind. Another tool adds another level of complexity, adds friction and raises the barrier for internal adoption of this program.
 
 This example suggests **Azure DevOps** and uses "**on system**" whenever referring to the DevOps environment / bug tracking system.
 
 ### Decision making on how to record
 [[Formal recording of feedback or informal mentioning during cadence meeting]]
 
-### Ideal process of feedback
+### Ideal flow of feedback
     1) Product feedback is gathered, anonymized to avoid bias, pre-filtered, recorded, grouped, tagged and then handed over to product the group, with flags for high urgency items - all on system.
     2) Product group filters with business justification on system.
     3) Feedback gets prioritized through both, product group and Developer Advocacy on system. 
@@ -121,6 +130,8 @@ This example suggests **Azure DevOps** and uses "**on system**" whenever referri
         -   
         -   communication with feedback provider
         -   
+### Example process 
+
 
 ### Filtering
 tbd
@@ -144,3 +155,7 @@ Social Media Monitoring Tools:
 - [Onalytica](https://onalytica.com/)
 - [Radarly / linkfluenc](https://www.linkfluence.com/)
 - [EchoBot](https://www.echobot.io/)
+
+CRU(D)
+    Create, Read, Update, (Delete) - Deveoper Advocacy should have the ability to manage feedback entries in DevOps. Using DevOps in a collaborational cross-team spirit helps build trust between Product, Engineering and Advocacy.
+
